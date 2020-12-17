@@ -1,0 +1,25 @@
+{
+  "name": "@yoerivd/persist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoeriVD/persist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoeriVD/persist/issues"
+  },
+  "homepage": "https://github.com/YoeriVD/persist#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
