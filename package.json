@@ -1,11 +1,10 @@
 {
   "name": "@yoerivd/persist",
   "version": "1.0.0",
-  "description": "",
+  "description": "A typescript decorator to store any variable in localstorage in a typesafe way",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "tsc"
   },
   "repository": {
