@@ -1,6 +1,6 @@
 {
   "name": "@yoerivd/persist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A typescript decorator to store any variable in localstorage in a typesafe way",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
